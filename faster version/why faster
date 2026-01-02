@@ -1,0 +1,1 @@
+smartly check for bounds of triangle, reduces per-pixel math for pixels that aren'y actually gonna end up being shaded.
